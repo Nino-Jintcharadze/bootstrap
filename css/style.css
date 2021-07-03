@@ -1,0 +1,40 @@
+.navbar-brand {
+    font-family: 'Lato';
+    font-size: 40px;
+}
+.navbar-light .navbar-nav .nav-link {
+    font-family: 'Poppins';
+    font-size: 16px;
+    color: #6156F9;
+}
+.row {
+    align-items: center;
+}
+h2,
+h1,
+h3,
+h4,
+.left-block1 p {
+    font-family: 'Poppins';
+    color: #42495B;
+}
+h2 {
+    font-size: 50px;
+}
+h1 {
+    font-size: 74px;
+}
+.left-block1 p {
+    font-size: 16px;
+}
+.btn-secondary{
+    background-color: #231AAA;
+    font-size: 16px;
+    font-family: 'Poppins';
+}
+h3 {
+    font-size: 50px;
+}
+h4 {
+    font-size: 20px;
+}
