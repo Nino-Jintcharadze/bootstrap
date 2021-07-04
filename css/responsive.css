@@ -1,11 +1,11 @@
 @media (max-width: 765px) {
-    .nav-li1 {
-        display: none;
-    }
-    h1 {
+    .section1-h1 {
         font-size: 54px;
     }
-    h2 {
+    .section1-h2 {
         font-family: 48px;
+    }
+    .input {
+        font-size: 12px;
     }
 }
